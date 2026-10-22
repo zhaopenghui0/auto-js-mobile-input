@@ -1,0 +1,4 @@
+build/
+mobile_input_phone.zip
+node_modules/
+*.log

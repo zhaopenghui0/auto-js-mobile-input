@@ -1,0 +1,16 @@
+{
+  "name": "mobile_input",
+  "main": "mobile_input.js",
+  "packageName": "com.mobileinput.spell",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "ignore": [
+    "build",
+    ".git",
+    "tests",
+    "keymap.test.js",
+    "auto_coordinates.test.js",
+    "debug_mode.test.js",
+    "mobile_input_phone.zip"
+  ]
+}
